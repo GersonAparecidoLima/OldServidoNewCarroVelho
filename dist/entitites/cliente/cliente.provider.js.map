@@ -1,0 +1,1 @@
+{"version":3,"file":"cliente.provider.js","sourceRoot":"","sources":["../../../src/entitites/cliente/cliente.provider.ts"],"names":[],"mappings":";;;AAAA,qDAA2C;AAG9B,QAAA,eAAe,GAAG;IAC3B,OAAO,EAAE,mBAAmB;IAC5B,UAAU,EAAE,CAAC,CAAC,EAAc,EAAE,EAAE,CAAC,EAAE,CAAC,aAAa,CAAC,wBAAO,CAAC,CAAC;IAC3D,MAAM,EAAE,CAAC,eAAe,CAAC;CAC5B,CAAA"}
